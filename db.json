@@ -1,9 +1,55 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+{"Tasks":[
+  {
+    "id": "1",
+    "title": "Complete Week 1 Code Challenge",
+    "completed": true
+  },
+  {
+    "id": "2",
+    "title": "Do all pending quizzes",
+    "completed": false
+  },
+  {
+    "id": "3",
+    "title": "Finish project presentation",
+    "completed": false
+  },
+  {
+    "id": "4",
+    "title": "Study JS map method",
+    "completed": true
+  },
+  {
+    "id": "5",
+    "title": "Complete Week 2 Code Challenge",
+    "completed": true
+  }
+]
+}{"Tasks":[
+  {
+    "id": "1",
+    "title": "Complete Week 1 Code Challenge",
+    "completed": true
+  },
+  {
+    "id": "2",
+    "title": "Do all pending quizzes",
+    "completed": false
+  },
+  {
+    "id": "3",
+    "title": "Finish project presentation",
+    "completed": false
+  },
+  {
+    "id": "4",
+    "title": "Study JS map method",
+    "completed": true
+  },
+  {
+    "id": "5",
+    "title": "Complete Week 2 Code Challenge",
+    "completed": true
+  }
+]
 }
